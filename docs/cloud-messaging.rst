@@ -178,7 +178,7 @@ Each of the Firebase client SDKs are able to generate these registration tokens:
 Send messages to multiple devices (Multicast)
 *********************************************
 
-You can send send one message to up to 500 devices:
+You can send one message to up to 500 devices:
 
 .. code-block:: php
 
